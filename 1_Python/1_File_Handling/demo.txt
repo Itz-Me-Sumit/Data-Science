@@ -1,0 +1,6 @@
+Line 1: Hello Bhai
+Line 2: File handling seekh rahe hain
+Line 3: Yeh append hua hai
+Line 4: a+ mode use kiya
+Line 3: Yeh append hua hai
+Line 4: a+ mode use kiya
