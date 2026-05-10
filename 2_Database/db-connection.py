@@ -45,9 +45,17 @@ def execute_query(conn,query,params=None):
     try:
         cursor = conn.cursor()
         cursor.execute(query , params)
-        return cursor.fetchall()
+
+        if query.upper().startswith(("INSERT","UPDATE","DELETE")):
+            cursor.commit()
+            return cursor.rowcount()
+        else:
+            return cursor.fetchall()
+        
     except Exception as e:
         print(f"Error Occured While Running Query , Error : {e}")
+        if conn:
+            conn.roleback()
         return None
     finally:
         if cursor:
