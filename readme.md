@@ -74,13 +74,9 @@ To become a strong Machine Learning Engineer capable of building scalable and pr
 
 # 📬 Connect With Me
 
-### 👨‍💻 GitHub
 
-(Your GitHub Profile Link)
 
-### 💼 LinkedIn
-
-(Your LinkedIn Profile Link)
+Linkedin : https://www.linkedin.com/in/sumit-kumar-809687360/
 
 ---
 
