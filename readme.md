@@ -1,3 +1,8 @@
+## 📓 View Notebooks
+GitHub pe render nahi hoti, isliye NBViewer use karo:
+
+👉 [Click here to view all notebooks](https://nbviewer.org/github/Itz-Me-Sumit/Data-Science/tree/main/)
+
 # 🚀 Data Science & Machine Learning Journey
 
 Welcome to my Data Science & Machine Learning repository!
