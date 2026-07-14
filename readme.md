@@ -16,30 +16,37 @@ Each topic below has its own dedicated repository with detailed notes, notebooks
 
 ### 🐍 Python
 OOPs, File Handling, Exception Handling, Threading & Libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly)
+
 🔗 Repo: https://github.com/Itz-Me-Sumit/Python-And-Libraries
 
 ### 🗄️ Database
 PostgreSQL with Python — connections, queries, integration
+
 🔗 Repo: 
 
 ### 🎲 Statistics & Probability
 Descriptive & Inferential Statistics, Probability Distributions (scratch-built), Hypothesis Testing
+
 🔗 Repo: https://github.com/Itz-Me-Sumit/Statistics_Probability
 
 ### 📊 EDA (Exploratory Data Analysis)
 Real-world dataset exploration, data cleaning, insights generation
+
 🔗 Repo: https://github.com/Itz-Me-Sumit/Exploratory-Data-Analysis
 
 ### 🛠️ Feature Engineering
 Feature extraction, transformation, selection, scaling
+
 🔗 Repo: https://github.com/Itz-Me-Sumit/Feature-Engineering
 
 ### 🤖 Machine Learning
 Algorithms implemented from scratch (math + intuition) + Scikit-Learn practice
+
 🔗 Repo: https://github.com/Itz-Me-Sumit/Machine-Learning
 
 ### 🧬 Deep Learning
 Neural Networks, NLP — from scratch and with PyTorch/TensorFlow
+
 🔗 Repo: https://github.com/Itz-Me-Sumit/Deep-Learning
 
 ---
