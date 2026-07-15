@@ -1,12 +1,8 @@
-## 📓 View Notebooks
-GitHub pe render nahi hoti, isliye NBViewer use karo:
-👉 [Click here to view all notebooks](https://nbviewer.org/github/Itz-Me-Sumit/Data-Science/tree/main/)
-
 # 🚀 Data Science & Machine Learning Journey
 
 Welcome to my Data Science & Machine Learning repository!
 
-This repository documents my complete learning journey — starting from **core mathematics and statistics**, moving into **Machine Learning**, and eventually **Deep Learning (Neural Networks, NLP)**.
+This is the **umbrella repo** documenting my complete learning journey — starting from **core Python & libraries**, moving into **Statistics, EDA, Feature Engineering, Machine Learning**, and eventually **Deep Learning**.
 
 My approach is simple: **I implement everything from scratch first** to build real intuition — understanding *why* something works, *what problem it solves*, *when to use it*, and *the math behind it* — before using standard libraries like Scikit-Learn, TensorFlow/PyTorch, etc.
 
@@ -14,81 +10,77 @@ I believe in learning by building, not just studying theory.
 
 ---
 
-# 🧠 What You'll Find Here
+# 📂 Repositories
 
-### 📐 Core Mathematics (from scratch)
-* Linear Algebra (vectors, matrices, eigendecomposition, SVD)
-* Calculus for ML (derivatives, gradients, optimization)
-* Intuition-first derivations before formulas
+Each topic below has its own dedicated repository with detailed notes, notebooks, and implementations.
 
-### 🎲 Statistics & Probability (from scratch)
-* Probability distributions (Uniform, Exponential, Normal, etc.) — built as Python classes
-* Descriptive & Inferential Statistics
-* Hypothesis Testing (T-test, Mann-Whitney, ANOVA, Chi-Square)
-* Building intuition behind every statistical concept
+### 🐍 Python
+OOPs, File Handling, Exception Handling, Threading & Libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly)
 
-### 🤖 Machine Learning (scratch + library)
-* Every algorithm implemented from scratch first — understanding the math, intuition, and purpose
-* Then compared/used with libraries like Scikit-Learn
-* Feature Engineering, EDA, Data Visualization
-* Real-world Dataset Experiments
-* IIT Madras ML Practice Work
+🔗 Repo: https://github.com/Itz-Me-Sumit/Python-And-Libraries
 
-### 🧬 Deep Learning (from scratch)
-* Neural Networks — built from the ground up
-* NLP fundamentals and implementations
-* Understanding architecture, math, and intuition before using frameworks
+### 🗄️ Database
+PostgreSQL with Python — connections, queries, integration
 
-### 🛠️ Supporting Skills
-* Python Programming & OOPs
-* File Handling & Serialization
-* PostgreSQL with Python
-* Scikit-Learn Pipelines
+🔗 Repo: 
+
+### 🎲 Statistics & Probability
+Descriptive & Inferential Statistics, Probability Distributions (scratch-built), Hypothesis Testing
+
+🔗 Repo: https://github.com/Itz-Me-Sumit/Statistics_Probability
+
+### 📊 EDA (Exploratory Data Analysis)
+Real-world dataset exploration, data cleaning, insights generation
+
+🔗 Repo: https://github.com/Itz-Me-Sumit/Exploratory-Data-Analysis
+
+### 🛠️ Feature Engineering
+Feature extraction, transformation, selection, scaling
+
+🔗 Repo: https://github.com/Itz-Me-Sumit/Feature-Engineering
+
+### 🤖 Machine Learning
+Algorithms implemented from scratch (math + intuition) + Scikit-Learn practice
+
+🔗 Repo: https://github.com/Itz-Me-Sumit/Machine-Learning
+
+### 🧬 Deep Learning
+Neural Networks, NLP — from scratch and with PyTorch/TensorFlow
+
+🔗 Repo: https://github.com/Itz-Me-Sumit/Deep-Learning
+
+---
+
+# 🎯 Featured Projects
+
+🔗 Project 1: 
+
+🔗 Project 2: 
 
 ---
 
 # ⚙️ Tech Stack
 * Python
-* NumPy
-* Pandas
-* Matplotlib / Seaborn
+* NumPy, Pandas
+* Matplotlib, Seaborn, Plotly
 * Scikit-Learn
-* Pytorch
-* TensorFlow
+* PyTorch, TensorFlow
 * PostgreSQL
 
 ---
 
-# 🎯 Current Focus
-* Statistics & Probability from scratch (distribution classes, continuous distributions)
-* Building ML algorithms from scratch before using libraries
-* Moving towards Neural Networks & NLP from scratch
-* End-to-End MLOps & Production ML Pipelines
-
----
-
 # 🌱 Goal
-To build a rock-solid foundation — from core math to deep learning — by implementing everything from scratch first, so I truly understand the "why" before the "how." The end goal is to become a strong ML Engineer capable of building scalable, production-ready ML systems.
+To build a rock-solid foundation — from core Python to deep learning — by implementing everything from scratch first, so I truly understand the "why" before the "how." The end goal is to become a strong ML Engineer capable of building scalable, production-ready ML systems.
 
 ---
 
 # 📚 Learning Approach
-✔️ Scratch-first implementation (Math → Stats/Probability → ML → Deep Learning)
+✔️ Scratch-first implementation
 ✔️ Intuition before formulas
 ✔️ Hands-on Practice with Real Datasets
 ✔️ Consistent Daily Learning
 ✔️ Building Projects Publicly
 ✔️ Writing Clean & Understandable Code
-
----
-
-# ⭐ Repository Highlights
-✅ Complete Path: Core Math → Statistics → ML → Deep Learning
-✅ Scratch Implementations with Full Intuition
-✅ Practical + Library-based Comparisons
-✅ Real-world ML Concepts
-✅ Continuous Updates
-✅ Project-based Learning
 
 ---
 
