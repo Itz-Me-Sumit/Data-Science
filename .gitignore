@@ -6,3 +6,8 @@ Basic_Practice_Projects/
 /MIT Deep Learning
 *.csv
 *.pdf
+/dataset
+
+**/dataset/
+**/cats_set/
+**/dogs_set/
